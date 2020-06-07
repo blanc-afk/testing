@@ -1,4 +1,7 @@
 {
   "mongoURI": "mongodb+srv://n123:314314BnB@cluster0-psujs.mongodb.net/Cluster0?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "da95a7c3632f29c5bb2c",
+  "githubSecret": "0650fa37889896db2a7e02c7d3c0ff0fc9007dec",
+  "githubToken": "4656a98aac4a45c16d73b353fe1975a57bde4653"
 }
